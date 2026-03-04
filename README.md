@@ -8,7 +8,7 @@ OpenClaw 是一个强大的 AI 助手平台，本指南总结b并成功安装和
 
 ### 1. 系统要求
 - 操作系统：macOS (Apple Silicon) 或 Linux
-- Node.js 版本：18.x 或更高版本（本机使用22版本）
+- Node.js 版本：> 22 或更高版本（本机使用22版本）
 - npm 或 yarn 包管理器
 - Git 版本控制工具
 
